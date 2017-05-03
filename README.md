@@ -1,4 +1,4 @@
-Code of the new 
+Code of the new new version of the book:
 
 **First Contact With TensorFlow - 2n Edition**. Jordi Torres, Maurici Yagües & Francesc Sastre.  WATCH THIS SPACE Collection. August 2017 (estimated)
 
